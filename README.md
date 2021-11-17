@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @aryanevilhena
 - 👀 I’m interested in music, movies and a lot of Javascript, HTML & CSS
 - 🌱 I’m currently learning React, Typescript and Node.js
-- 📫 Contact me: https://www.linkedin.com/in/aryane-vilhena/
+
 
 <div align="center">
   <a href="https://github.com/aryanevilhena">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanevilhena&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanevilhena&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanevilhena&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanevilhena&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
   
 <div style="display: inline_block"><br>
