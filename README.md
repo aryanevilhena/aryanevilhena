@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @aryanevilhena
-- 👀 I’m interested in music, movies and a lot of Javascript, HTML & CSS
-- 🌱 I’m currently learning React, Typescript and Node.js
+👋 Hi, I’m @aryanevilhena <br>
+👀 I’m interested in music, movies and a lot of Javascript, HTML & CSS <br>
+🌱 I’m currently learning React, Typescript and Node.js
 
+##
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/aryanevilhena">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanevilhena&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanevilhena&layout=compact&langs_count=7&theme=nightowl"/>
